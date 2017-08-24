@@ -1,0 +1,14 @@
+F:\Archive\一个页面实现Ajax效果的增删改查-JQuery+Json版\WebApp\bin\WebApp.dll
+F:\Archive\一个页面实现Ajax效果的增删改查-JQuery+Json版\WebApp\bin\WebApp.pdb
+F:\Archive\一个页面实现Ajax效果的增删改查-JQuery+Json版\WebApp\bin\DAL.dll
+F:\Archive\一个页面实现Ajax效果的增删改查-JQuery+Json版\WebApp\bin\DAL.pdb
+F:\Archive\一个页面实现Ajax效果的增删改查-JQuery+Json版\WebApp\obj\Debug\ResolveAssemblyReference.cache
+F:\Archive\一个页面实现Ajax效果的增删改查-JQuery+Json版\WebApp\obj\Debug\WebApp.dll
+F:\Archive\一个页面实现Ajax效果的增删改查-JQuery+Json版\WebApp\obj\Debug\WebApp.pdb
+F:\Archive\test\WebApp\bin\WebApp.dll
+F:\Archive\test\WebApp\bin\WebApp.pdb
+F:\Archive\test\WebApp\bin\DAL.dll
+F:\Archive\test\WebApp\bin\DAL.pdb
+F:\Archive\test\WebApp\obj\Debug\ResolveAssemblyReference.cache
+F:\Archive\test\WebApp\obj\Debug\WebApp.dll
+F:\Archive\test\WebApp\obj\Debug\WebApp.pdb

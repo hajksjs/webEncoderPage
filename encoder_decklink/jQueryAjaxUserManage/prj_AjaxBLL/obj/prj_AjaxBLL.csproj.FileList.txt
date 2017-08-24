@@ -1,0 +1,9 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\prj_AjaxBLL.dll
+bin\Debug\prj_AjaxBLL.pdb
+bin\Debug\prj_AjaxDAL.dll
+bin\Debug\prj_AjaxModels.dll
+bin\Debug\prj_AjaxModels.pdb
+bin\Debug\prj_AjaxDAL.pdb
+obj\Debug\prj_AjaxBLL.dll
+obj\Debug\prj_AjaxBLL.pdb

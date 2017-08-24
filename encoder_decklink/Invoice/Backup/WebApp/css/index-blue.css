@@ -1,0 +1,8 @@
+body{ background:#f5f5f5 url(../img/index_bg.png) 0 bottom no-repeat; background-attachment:fixed; }
+#hd .welcome a { color:#4e84c8; }
+.quick-links span{ background-image:url(../img/index_icons.png); }
+.quick-links li a{ color: #2a69b7; }
+.extra-wrap h2{ line-height:36px; border:1px solid #3b68b3;  color:#FFF; background:#346fb9 url(../img/index_h2_bg.png) 0 0 repeat-x; }
+#hd #newbieRadio{ background:url(../img/index_icons.png) no-repeat 0 -256px; }
+.notices{ background:#fff url(../img/index_icons.png) no-repeat 0 -288px; }
+.notices li i{display: inline-block;*display: inline;*zoom:1;margin-right:5px;width: 16px;height: 16px;background:url(../img/index_icons.png) 0 -271px no-repeat;vertical-align: text-bottom;}

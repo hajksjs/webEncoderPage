@@ -1,0 +1,31 @@
+<?php  
+$videolist=array('size:720x486;format:uyvy422;fps:30000/1001(interlace);index:1'=>'uyvy422 720x486 30000/1001(interlace)fps',
+									'size:720x576;format:uyvy422;fps:25000/1000(interlace);index:2'=>'uyvy422 720x576 25000/1000(interlace)fps',
+									'size:1920x1080;format:uyvy422;fps:24000/1001;index:3'=>'uyvy422 1920x1080 24000/1001fps',
+									'size:1920x1080;format:uyvy422;fps:24000/1000;index:4'=>'uyvy422 1920x1080 24000/1000fps',
+									'size:1920x1080;format:uyvy422;fps:25000/1000;index:5'=>'uyvy422 1920x1080 25000/1000fps',
+									'size:1920x1080;format:uyvy422;fps:30000/1001;index:6'=>'uyvy422 1920x1080 30000/1001fps',
+									'size:1920x1080;format:uyvy422;fps:30000/1000;index:7'=>'uyvy422 1920x1080 30000/1000fps',
+									'size:1920x1080;format:uyvy422;fps:25000/1000(interlace);index:8'=>'uyvy422 1920x1080 25000/1000(interlace)fps',
+									'size:1920x1080;format:uyvy422;fps:30000/1001(interlace);index:9'=>'uyvy422 1920x1080 30000/1001(interlace)fps',
+									'size:1920x1080;format:uyvy422;fps:30000/1000(interlace);index:10'=>'uyvy422 1920x1080 30000/1000(interlace)fps',
+									'size:1920x1080;format:uyvy422;fps:50000/1000;index:11'=>'uyvy422 1920x1080 50000/1000fps',
+									'size:1920x1080;format:uyvy422;fps:60000/1001;index:12'=>'uyvy422 1920x1080 60000/1001fps',
+									'size:1920x1080;format:uyvy422;fps:60000/1000;index:13'=>'uyvy422 1920x1080 60000/1000fps',
+									'size:1280x720;format:uyvy422;fps:50000/1000;index:14'=>'uyvy422 1280x720 50000/1000fps',
+									'size:1280x720;format:uyvy422;fps:60000/1001;index:15'=>'uyvy422 1280x720 60000/1001fps',
+									'size:1280x720;format:uyvy422;fps:60000/1000;index:16'=>'uyvy422 1280x720 60000/1000fps',
+									'size:2048x1080;format:uyvy422;fps:24000/1001;index:17'=>'uyvy422 2048x1080 24000/1001fps',
+									'size:2048x1080;format:uyvy422;fps:24000/1000;index:18'=>'uyvy422 2048x1080 24000/1000fps',
+									'size:2048x1080;format:uyvy422;fps:25000/1000;index:19'=>'uyvy422 2048x1080 25000/1000fps',
+									'size:3840x2160;format:uyvy422;fps:24000/1001;index:20'=>'uyvy422 3840x2160 24000/1001fps',
+									'size:3840x2160;format:uyvy422;fps:24000/1000;index:21'=>'uyvy422 3840x2160 24000/1000fps',
+									'size:3840x2160;format:uyvy422;fps:25000/1000;index:22'=>'uyvy422 3840x2160 25000/1000fps',
+									'size:3840x2160;format:uyvy422;fps:30000/1001;index:23'=>'uyvy422 3840x2160 30000/1001fps',
+									'size:3840x2160;format:uyvy422;fps:30000/1000;index:24'=>'uyvy422 3840x2160 30000/1000fps',
+									'size:4096x2160;format:uyvy422;fps:24000/1001;index:25'=>'uyvy422 4096x2160 24000/1001fps',
+									'size:4096x2160;format:uyvy422;fps:24000/1000;index:26'=>'uyvy422 4096x2160 24000/1000fps',
+									'size:4096x2160;format:uyvy422;fps:25000/1000;index:27'=>'uyvy422 4096x2160 25000/1000fps');
+echo json_encode($videolist);  
+
+?>  

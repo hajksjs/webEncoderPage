@@ -1,0 +1,17 @@
+C:\Documents and Settings\Administrator\桌面\Model\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\Model\DAL\bin\Debug\DAL.dll
+C:\Documents and Settings\Administrator\桌面\Model\DAL\bin\Debug\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\Model\DAL\bin\Debug\Model.dll
+C:\Documents and Settings\Administrator\桌面\Model\DAL\bin\Debug\Model.pdb
+C:\Documents and Settings\Administrator\桌面\Model\DAL\obj\Debug\DAL.dll
+C:\Documents and Settings\Administrator\桌面\Model\DAL\obj\Debug\DAL.pdb
+F:\Archive\一个页面实现Ajax效果的增删改查-JQuery+Json版\DAL\bin\Debug\DAL.dll
+F:\Archive\一个页面实现Ajax效果的增删改查-JQuery+Json版\DAL\bin\Debug\DAL.pdb
+F:\Archive\一个页面实现Ajax效果的增删改查-JQuery+Json版\DAL\obj\Debug\ResolveAssemblyReference.cache
+F:\Archive\一个页面实现Ajax效果的增删改查-JQuery+Json版\DAL\obj\Debug\DAL.dll
+F:\Archive\一个页面实现Ajax效果的增删改查-JQuery+Json版\DAL\obj\Debug\DAL.pdb
+F:\Archive\test\DAL\bin\Debug\DAL.dll
+F:\Archive\test\DAL\bin\Debug\DAL.pdb
+F:\Archive\test\DAL\obj\Debug\ResolveAssemblyReference.cache
+F:\Archive\test\DAL\obj\Debug\DAL.dll
+F:\Archive\test\DAL\obj\Debug\DAL.pdb

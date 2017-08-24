@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Messages>
+  <people>
+    <ENName>lishuaibin</ENName>
+    <CNName>李帅斌</CNName>
+    <message>我叫李帅斌</message>
+  </people>
+  <people>
+    <ENName>zhangxianbo</ENName>
+    <CNName>张三</CNName>
+    <message>我叫张三</message>
+  </people>
+  <people>
+    <ENName>linsi</ENName>
+    <CNName>林四</CNName>
+    <message>我叫林四</message>
+  </people>
+  <people>
+    <ENName>jiangwu</ENName>
+    <CNName>姜五</CNName>
+    <message>我叫姜五</message>
+  </people>
+  <people>
+    <ENName>liuliu</ENName>
+    <CNName>刘六</CNName>
+    <message>我叫刘六</message>
+  </people>
+</Messages>

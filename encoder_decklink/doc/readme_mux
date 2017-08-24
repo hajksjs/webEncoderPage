@@ -1,0 +1,10 @@
+之前有：
+节目号（service id） serviceid > 0 && serviceid < 0xffff  jason "service"
+提供商（provider） 文本  jason "provider"
+视频PID，音频PID，stream id ,音频是视频+1 范围 (32 && streamid < 0xf00)  jason "stream"
+
+新加 
+pcr pid         video streamid(pid).(first pid.)  jason "pcrid"
+pmt pid,        0x0010, 0x1f00                    jason "pmtid"
+节目名(service_name) 文本                         jason "servicename" 
+

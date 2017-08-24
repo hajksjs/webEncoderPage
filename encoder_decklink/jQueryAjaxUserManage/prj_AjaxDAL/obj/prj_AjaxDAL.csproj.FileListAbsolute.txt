@@ -1,0 +1,14 @@
+E:\项目\未分类\jquery ajax 无刷新登录 添加 检索用户名是否存在  无刷新加载xml文件\prj_Ajax\prj_Ajax\prj_AjaxDAL\bin\Debug\prj_AjaxDAL.dll
+E:\项目\未分类\jquery ajax 无刷新登录 添加 检索用户名是否存在  无刷新加载xml文件\prj_Ajax\prj_Ajax\prj_AjaxDAL\bin\Debug\prj_AjaxDAL.pdb
+E:\项目\未分类\jquery ajax 无刷新登录 添加 检索用户名是否存在  无刷新加载xml文件\prj_Ajax\prj_Ajax\prj_AjaxDAL\bin\Debug\prj_AjaxModels.dll
+E:\项目\未分类\jquery ajax 无刷新登录 添加 检索用户名是否存在  无刷新加载xml文件\prj_Ajax\prj_Ajax\prj_AjaxDAL\bin\Debug\prj_AjaxModels.pdb
+E:\项目\未分类\jquery ajax 无刷新登录 添加 检索用户名是否存在  无刷新加载xml文件\prj_Ajax\prj_Ajax\prj_AjaxDAL\obj\Debug\ResolveAssemblyReference.cache
+E:\项目\未分类\jquery ajax 无刷新登录 添加 检索用户名是否存在  无刷新加载xml文件\prj_Ajax\prj_Ajax\prj_AjaxDAL\obj\Debug\prj_AjaxDAL.dll
+E:\项目\未分类\jquery ajax 无刷新登录 添加 检索用户名是否存在  无刷新加载xml文件\prj_Ajax\prj_Ajax\prj_AjaxDAL\obj\Debug\prj_AjaxDAL.pdb
+F:\jQueryAjaxUserManage\prj_AjaxDAL\bin\Debug\prj_AjaxDAL.dll
+F:\jQueryAjaxUserManage\prj_AjaxDAL\bin\Debug\prj_AjaxDAL.pdb
+F:\jQueryAjaxUserManage\prj_AjaxDAL\bin\Debug\prj_AjaxModels.dll
+F:\jQueryAjaxUserManage\prj_AjaxDAL\bin\Debug\prj_AjaxModels.pdb
+F:\jQueryAjaxUserManage\prj_AjaxDAL\obj\Debug\ResolveAssemblyReference.cache
+F:\jQueryAjaxUserManage\prj_AjaxDAL\obj\Debug\prj_AjaxDAL.dll
+F:\jQueryAjaxUserManage\prj_AjaxDAL\obj\Debug\prj_AjaxDAL.pdb

@@ -1,0 +1,5 @@
+bin\Debug\prj_AjaxModels.dll
+bin\Debug\prj_AjaxModels.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\prj_AjaxModels.dll
+obj\Debug\prj_AjaxModels.pdb
